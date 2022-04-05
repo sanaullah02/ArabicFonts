@@ -1,0 +1,25 @@
+@font-face { font-family: "Arbaeen" ; src: url("fonts/Arbaeen.ttf"); }
+@font-face { font-family: "AgaGranadaGrntV2Ar" ; src: url("fonts/AgaGranadaGrntV2Ar.ttf"); }
+@font-face { font-family: "faisalfree" ; src: url("fonts/faisalfree.ttf"); }
+@font-face { font-family: "Scheherazade" ; src: url("fonts/Scheherazade.otf"); }
+@font-face { font-family: "AgaSindibadV2Sndbd" ; src: url("fonts/AgaSindibadV2Sndbd.ttf"); }
+@font-face { font-family: "BArshia" ; src: url("fonts/BArshia.ttf"); }
+@font-face { font-family: "ArabicEjaza" ; src: url("fonts/ArabicEjaza.ttf"); }
+@font-face { font-family: "alsamt" ; src: url("fonts/alsamt.ttf"); }
+@font-face { font-family: "Tabassom" ; src: url("fonts/Tabassom.ttf"); }
+@font-face { font-family: "ElMessiri" ; src: url("fonts/ElMessiri.otf"); }
+@font-face { font-family: "Abdo" ; src: url("fonts/Abdo.ttf"); }
+@font-face { font-family: "NNaskhBook" ; src: url("fonts/NNaskhBook.ttf"); }
+
+#text01 { color: #DCCD80; font-family: 'Arbaeen'; font-size: 3em; line-height: 1.5; font-weight: 400; }
+#text02 { color: #DCCD80; font-family: 'AgaGranadaGrntV2Ar'; font-size: 4.5em; line-height: 1.5; font-weight: 400; }
+#text03 { color: #DCCD80; font-family: 'faisalfree'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text04 { color: #DCCD80; font-family: 'Scheherazade'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text05 { color: #DCCD80; font-family: 'AgaSindibadV2Sndbd'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text06 { color: #DCCD80; font-family: 'BArshia'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text07 { color: #DCCD80; font-family: 'ArabicEjaza'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text08 { color: #DCCD80; font-family: 'alsamt'; font-size: 4.5em; line-height: 1.5; font-weight: 400; }
+#text09 { color: #DCCD80; font-family: 'Tabassom'; font-size: 4.5em; line-height: 1.5; font-weight: 400; }
+#text10 { color: #DCCD80; font-family: 'ElMessiri'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text11 { color: #DCCD80; font-family: 'Abdo'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text12 { color: #DCCD80; font-family: 'NNaskhBook'; font-size: 3em; line-height: 1.5; font-weight: 400; }
